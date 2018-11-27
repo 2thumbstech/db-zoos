@@ -1,7 +1,7 @@
 # Building an API using a Relational Database Mini
 
 Topics:
-
+ 
 - Relational Databases
 - SQLite
 - Knex
